@@ -1,4 +1,4 @@
-![Header]()
+![Header](https://github.com/athanzxyt/athanzxyt/blob/main/gh_header.png)
 
 # Athan Zhang
 "Do not follow where the path may lead. Go instead where there is no path and leave a trail." – Ralph Waldo Emerson
