@@ -1,4 +1,9 @@
 # Athan Zhang
+"Do not follow where the path may lead. Go instead where there is no path and leave a trail." – Ralph Waldo Emerson
+
+## Hey there 👋
+
+I'm Athan, but online and in most tech spaces, you'll see me go by my username, athanzxyt. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
