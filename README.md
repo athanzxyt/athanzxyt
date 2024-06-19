@@ -33,7 +33,10 @@ This summer, I will be working at Leidos as a Data Scientist working to implemen
 
 ## Stats
 
-<h2 align="left">Connect with me:</h3>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=athanzxyt)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=athanzxyt&langs_count=3)
+
+## Connect with me!
 <p align="left">
 <a href="https://twitter.com/athanzxyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athanzxyt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/athanzhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athanzhang" height="30" width="40" /></a>
