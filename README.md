@@ -5,11 +5,11 @@
 
 ## Hey there 👋
 
-I'm Athan, but online and in most tech spaces, you'll see me go by my username, athanzxyt. I'm currently an undergraduate student at Princeton in an accelerated track studying computer science, operations research, sociology, and entrepreneurship (if that can even be learned). Currently, I'm helping build backend machine learning pipelines and advising with strategy at [Vytal](https://vytal.ai/), a startup I helped start with a few friends back in high school. 
+I'm Athan, but online and in most tech spaces, you'll see me go by my username, athanzxyt. I'm currently an undergraduate student at Princeton in an accelerated track studying computer science, operations research, sociology, and entrepreneurship (if that can even be learned).
 
-On campus, I'm primarily involved with pursuing NLP HCI research under Christiane Fellbaum and working at [Princeton Student Ventures](https://psv.vc), Princeton's premier VC club that gives non-dilutive grants to local startups, as the Director of Founder Support (aka. ensuring portfolio companies don't die).  
+On campus, I'm primarily involved with pursuing NLP research under Danqi Chen and working [Princeton Student Ventures](https://psv.vc), Princeton's premier VC club that gives non-dilutive grants to local startups, as one of the Managing Directors (aka. ensuring portfolio companies don't die).  
 
-This summer, I will be working at Leidos as a Data Scientist working to implement computer vision models for border security and designing web apps in accordance with their AI Governance framework. I will also be working at Five Rings for their Quant Developer program in NY. However, I'm always down to work on new and exciting projects, so feel free to reach out or check out my projects and [website](athan.info)!
+This past summer, I was at Five Rings as a Quantitative Developer Intern working to streamline market exchange operations and re-design more efficient client-side orderbooks. I'm always down to work on new and exciting projects, so feel free to reach out or check out my projects and [website](athanzhang.com)!
 
 ## Skills
 
