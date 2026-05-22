@@ -1,15 +1,7 @@
 ![Header](https://github.com/athanzxyt/athanzxyt/blob/main/header.png)
 
 # athanzxyt
-"Do not follow where the path may lead. Go instead where there is no path and leave a trail." – Ralph Waldo Emerson
-
-## Hey there 👋
-
-I'm Athan, but online and in most tech spaces, you'll see me go by my username, athanzxyt. I'm currently an undergraduate student at Princeton in an accelerated track studying computer science, operations research, sociology, and entrepreneurship (if that can even be learned).
-
-On campus, I'm primarily involved with pursuing NLP research under Danqi Chen and working [Princeton Student Ventures](https://psv.vc), Princeton's premier VC club that gives non-dilutive grants to local startups, as one of the Managing Directors (aka. ensuring portfolio companies don't die).  
-
-This past summer, I was at Five Rings as a Quantitative Developer Intern working to streamline market exchange operations and re-design more efficient client-side orderbooks. I'm always down to work on new and exciting projects, so feel free to reach out or check out my projects and [website](athanzhang.com)!
+Cofounder/CEO of [Copperlane](https://www.copperlane.ai).
 
 ## Skills
 
