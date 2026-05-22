@@ -1,4 +1,4 @@
-![Header](https://github.com/athanzxyt/athanzxyt/blob/main/header.png)
+![Header](https://github.com/athanzxyt/athanzxyt/blob/main/header2.png)
 
 # athanzxyt
 Cofounder/CEO of [Copperlane](https://www.copperlane.ai).
